@@ -1,4 +1,4 @@
-# Introduction to React Router
+# Introduction to React Router.
 
 ## Objectives
 
